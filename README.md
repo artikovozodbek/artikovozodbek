@@ -24,10 +24,15 @@ Live webcam face recognition on ArcFace embeddings (InsightFace) with
 vectorized cosine-similarity matching and on-the-fly enrollment — no
 retraining step to add a new person.
 
+### [classical-machine-learning](https://github.com/artikovozodbek/classical-machine-learning)
+EDA with NumPy/pandas, then the core supervised-learning toolkit —
+KNN, logistic/linear regression, SVM, decision trees, random forest,
+bagging/AdaBoost/gradient boosting/XGBoost, pipelines & cross-validation
+— applied end-to-end on a customer-churn prediction case study.
+
 ### [python-learning-journey](https://github.com/artikovozodbek/python-learning-journey)
-Python & ML fundamentals organized by topic — basics → file handling →
-OOP → GUI (PyQt5) → SQL → machine learning (KNN, logistic regression,
-PyTorch, CNNs) — showing the skill progression in one place.
+Core Python fundamentals organized by topic — basics → file handling →
+OOP → GUI (PyQt5) → SQL → deep learning intro (PyTorch, CNNs).
 
 ##  Currently learning
 
