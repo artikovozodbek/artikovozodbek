@@ -1,10 +1,10 @@
-# Hi, I'm Ozodbek 👋
+# Hi, I'm Ozodbek 
 
 I build **AI/ML systems** — retrieval-augmented generation, computer vision,
 and local-first LLM applications — and I'm sharpening my foundations in
 Python, machine learning, and neural networks along the way.
 
-## 🚀 Featured projects
+##  Featured projects
 
 ### [uzbek-constitution-rag](https://github.com/artikovozodbek/uzbek-constitution-rag)
 Hybrid RAG system answering questions about the Uzbek Constitution,
@@ -24,20 +24,19 @@ Live webcam face recognition on ArcFace embeddings (InsightFace) with
 vectorized cosine-similarity matching and on-the-fly enrollment — no
 retraining step to add a new person.
 
-## 🧠 Currently learning
+##  Currently learning
 
 Neural networks, classical ML (KNN, logistic regression), and going
 deeper on retrieval/embeddings for RAG systems.
 
-## 🛠️ Tech I work with
+## Tech I work with
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FAISS](https://img.shields.io/badge/-FAISS-4285F4?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-## 📊 GitHub stats
+## GitHub stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=artikovozodbek&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=artikovozodbek&hide_border=true" alt="GitHub streak" height="165"/>
