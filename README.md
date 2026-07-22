@@ -24,6 +24,11 @@ Live webcam face recognition on ArcFace embeddings (InsightFace) with
 vectorized cosine-similarity matching and on-the-fly enrollment — no
 retraining step to add a new person.
 
+### [python-learning-journey](https://github.com/artikovozodbek/python-learning-journey)
+Python & ML fundamentals organized by topic — basics → file handling →
+OOP → GUI (PyQt5) → SQL → machine learning (KNN, logistic regression,
+PyTorch, CNNs) — showing the skill progression in one place.
+
 ##  Currently learning
 
 Neural networks, classical ML (KNN, logistic regression), and going
