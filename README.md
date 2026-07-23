@@ -5,6 +5,8 @@ and local-first LLM apps. This account is where I keep my projects.
 
 ## Projects
 
+- **[wikipedia-hybrid-rag](https://github.com/artikovozodbek/wikipedia-hybrid-rag)** — Hybrid RAG (BM25 + FAISS + RRF + Ollama) over Uzbek Wikipedia, with quantitative BM25 vs Dense vs Hybrid evaluation (Hit Rate@5, F1).
+- **[ai-data-analysis-platform](https://github.com/artikovozodbek/ai-data-analysis-platform)** — FastAPI multi-agent platform for dataset understanding, cleaning suggestions, visualization, and automated report generation.
 - **[uzbek-constitution-rag](https://github.com/artikovozodbek/uzbek-constitution-rag)** — Hybrid RAG (BM25 + FAISS + cross-encoder rerank + Gemini) answering questions on the Uzbek Constitution, grounded article-by-article.
 - **[ai-teaching-assistant](https://github.com/artikovozodbek/ai-teaching-assistant)** — Local, offline AI tutor: hybrid RAG over your own lecture slides/books, powered by Llama 3.2 via Ollama.
 - **[realtime-face-recognition](https://github.com/artikovozodbek/realtime-face-recognition)** — Real-time webcam face recognition (InsightFace/ArcFace) with live enrollment, no retraining needed.
