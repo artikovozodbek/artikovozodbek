@@ -28,6 +28,9 @@
       <h3>👤 Personal Profile</h3>
       <table>
         <tr><td><strong>Name</strong></td><td>Ozodbek Artikbayev</td></tr>
+        <tr><td><strong>Nickname</strong></td><td>Ozod</td></tr>
+        <tr><td><strong>Age</strong></td><td>20</td></tr>
+        <tr><td><strong>Born</strong></td><td>17 July 2006</td></tr>
         <tr><td><strong>Country</strong></td><td>Uzbekistan 🇺🇿 (Tashkent)</td></tr>
         <tr><td><strong>Education</strong></td><td>AI/ML Program, Najot Ta'lim 🎓</td></tr>
         <tr><td><strong>Role</strong></td><td>Support Teacher — Python, SQL, C</td></tr>
@@ -116,7 +119,13 @@
 
 ## 🌐 Languages
 
+<p>
+  <img src="https://img.shields.io/badge/Uzbek-Native-1E90FF?style=flat-square" alt="Uzbek Native" />
+  <img src="https://img.shields.io/badge/English-B1%20%2F%20Conversational-00F5A0?style=flat-square" alt="English B1" />
+</p>
+
 - **Uzbek** — Native
+- **English** — B1 certified, and comfortable understanding and speaking beyond that in practice
 
 ---
 
