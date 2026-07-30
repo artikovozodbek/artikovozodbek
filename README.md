@@ -109,7 +109,7 @@
 | --- | --- |
 | [wikipedia-hybrid-rag](https://github.com/artikovozodbek/wikipedia-hybrid-rag) | Hybrid RAG over Uzbek Wikipedia, with quantitative BM25 vs Dense vs Hybrid evaluation |
 | [ai-data-analysis-platform](https://github.com/artikovozodbek/ai-data-analysis-platform) | FastAPI multi-agent platform: dataset understanding, cleaning, visualization, reports |
-| [uzbek-constitution-rag](https://github.com/artikovozodbek/uzbek-constitution-rag) | Hybrid RAG answering questions on the Uzbek Constitution, grounded article-by-article |
+| [uzbek-legal-rag](https://github.com/artikovozodbek/uzbek-legal-rag) | Hybrid RAG over Uzbek law (Constitution + Criminal Code), grounded article-by-article |
 | [ai-teaching-assistant](https://github.com/artikovozodbek/ai-teaching-assistant) | Local, offline RAG tutor over your own lecture slides/books, via Llama 3.2 + Ollama |
 | [classical-machine-learning](https://github.com/artikovozodbek/classical-machine-learning) | KNN/SVM/trees/ensembles/XGBoost, applied to a churn-prediction case study |
 | [realtime-face-recognition](https://github.com/artikovozodbek/realtime-face-recognition) | Real-time webcam face recognition (InsightFace/ArcFace) with live enrollment |
