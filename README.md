@@ -1,143 +1,82 @@
-<h1 align="center">🚀 Welcome to My Profile!</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E1A47,50:5B3A8E,100:00F5A0&text=OZODBEK%20ARTIKBAYEV&fontColor=FFFFFF&fontSize=35&fontAlignY=38&desc=Learning%20by%20Building.%20Testing%20Everything.&descAlignY=58&descSize=18" alt="Profile banner" />
+  <img src="assets/header.svg" alt="Ozodbek Artikbayev, AI/ML Engineer" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5A0&center=true&vCenter=true&width=760&lines=Aspiring+AI%2FML+Engineer;RAG+%26+Agentic+AI+Builder;Classical+ML+%2B+Computer+Vision;Support+Teacher+%E2%80%94+Python%2C+SQL%2C+C" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20internships-3be0c3?style=flat-square" alt="Open to AI/ML internships">
+  <img src="https://img.shields.io/badge/Based%20in-Tashkent%20%C2%B7%20UTC%2B5-2aabee?style=flat-square" alt="Tashkent, UTC+5">
+  <img src="https://img.shields.io/badge/Languages-Uzbek%20%C2%B7%20English%20B1-7a5cff?style=flat-square" alt="Uzbek, English B1">
 </p>
+
+### Hi, I'm Ozod 👋
+
+I build **AI systems that do real work and prove it with numbers**: retrieval-augmented
+generation that cites its sources, agents that act inside real accounts, and classical ML
+evaluated the honest way. When something is slow, I profile it before I touch it.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Main%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-RAG%20%2F%20Agents-00F5A0?style=for-the-badge&logo=openai&logoColor=111111" alt="AI badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-InsightFace-5B3A8E?style=for-the-badge&logo=opencv&logoColor=white" alt="CV badge" />
+  <img src="assets/impact.svg" alt="Impact: 4x faster Telegram tasks, ~2 s chat replies, 100% Hit@1 on the legal RAG test set, R² 0.95 with a time-aware split, 9 public documented projects" width="100%">
 </p>
 
-<p align="center">
-  <samp><strong>"Build it, then measure whether it actually works."</strong></samp>
-</p>
-
----
-
-## ✨ About Me
+## ⭐ Featured work
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>👤 Personal Profile</h3>
-      <table>
-        <tr><td><strong>Name</strong></td><td>Ozodbek Artikbayev</td></tr>
-        <tr><td><strong>Nickname</strong></td><td>Ozod</td></tr>
-        <tr><td><strong>Age</strong></td><td>20</td></tr>
-        <tr><td><strong>Born</strong></td><td>17 July 2006</td></tr>
-        <tr><td><strong>Country</strong></td><td>Uzbekistan 🇺🇿 (Tashkent)</td></tr>
-        <tr><td><strong>Education</strong></td><td>AI/ML Program, Najot Ta'lim 🎓</td></tr>
-        <tr><td><strong>Role</strong></td><td>Support Teacher — Python, SQL, C</td></tr>
-      </table>
-    </td>
-    <td width="50%">
-      <h3>🎯 Current Focus</h3>
-      <ul>
-        <li>🔎 Hybrid RAG systems (BM25 + dense retrieval)</li>
-        <li>🤖 Agentic AI & tool-calling workflows</li>
-        <li>📊 Classical ML done properly (evaluated, not assumed)</li>
-        <li>👁️ Computer vision (face recognition)</li>
-        <li>🧰 FastAPI backends for AI products</li>
-      </ul>
-    </td>
+    <td width="50%"><a href="https://github.com/artikovozodbek/uzbek-legal-rag"><img src="assets/card-legal.png" alt="Uzbek Legal RAG: 559 articles, 100% Hit@1 on 14 checked questions"></a></td>
+    <td width="50%"><a href="https://github.com/artikovozodbek/openclaw-telegram-assistant"><img src="assets/card-claw.png" alt="ClawAI Assistant: Telegram tasks 57 s to 14 s, chat in about 2 s, 69 tests passing"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/artikovozodbek/crop-yield-prediction"><img src="assets/card-crop.png" alt="Crop Yield Prediction: R² 0.95 time-aware split, 7 models, 101 countries"></a></td>
+    <td width="50%"><a href="https://github.com/artikovozodbek/wikipedia-hybrid-rag"><img src="assets/card-wiki.png" alt="Wikipedia Hybrid RAG: 18,656 chunks, Hit@5 0.72, 50 auto-generated questions"></a></td>
   </tr>
 </table>
 
----
+<details>
+<summary><b>More projects</b></summary>
+<br>
 
-## 🛠️ Skills & Technologies
+| Project | What it is |
+|---|---|
+| [ai-data-analysis-platform](https://github.com/artikovozodbek/ai-data-analysis-platform) | FastAPI multi-agent platform: dataset understanding, cleaning suggestions, visualization, automated reports |
+| [ai-teaching-assistant](https://github.com/artikovozodbek/ai-teaching-assistant) | Offline AI tutor: hybrid RAG (Chroma + BM25) over your own slides and books, Llama 3.2 via Ollama |
+| [realtime-face-recognition](https://github.com/artikovozodbek/realtime-face-recognition) | Real-time webcam face recognition (InsightFace / ArcFace) with live enrollment, no retraining |
+| [classical-machine-learning](https://github.com/artikovozodbek/classical-machine-learning) | KNN, SVM, trees, ensembles, XGBoost, applied to a churn-prediction case study |
+| [python-learning-journey](https://github.com/artikovozodbek/python-learning-journey) | Python fundamentals to ML: basics → OOP → GUI → SQL → machine learning |
 
-### 💻 Programming Languages
+</details>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111" alt="C" />
-</p>
+## 🧭 How I work
 
-- **Main Language:** `Python`
-- **Also:** `SQL`, `C`
+- **Measure first.** ClawAI felt "slow"; a CPU profile showed the model was fine (2.3 s) and
+  the real cost was file-system calls over a Windows mount. Fixing that, plus a fast-lane
+  plugin, took tasks from 57 s to 14 s and chat to ~2 s.
+- **Evaluate honestly.** In crop-yield prediction, random K-Fold reported R² 0.987; a
+  time-aware split gave 0.952, the number that reflects the real use. I report the lower one.
+- **Cite, don't invent.** My RAG systems return the article or passage they used, and each
+  README states the size and limits of its test set.
+- **Ship it end to end.** Docker, tests, setup scripts, safety rules and a README a stranger
+  can follow.
 
-### 🔧 Frameworks & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-blue?style=flat-square" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/FAISS-4285F4?style=flat-square" alt="FAISS" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-| Area | Stack |
-| --- | --- |
-| **AI & ML** | scikit-learn, XGBoost, pandas, NumPy, PyTorch (fundamentals) |
-| **RAG & LLM** | FAISS, BM25 (rank-bm25), cross-encoder reranking, Gemini API, Ollama / Llama 3.2, ChromaDB |
-| **Computer Vision** | OpenCV, InsightFace (ArcFace embeddings) |
-| **Backend / Web** | FastAPI, Streamlit |
-| **General** | Git & GitHub, Jupyter, PyQt5 |
-
----
-
-## 🧠 Interests & Focus Areas
+## 🛠️ Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-00F5A0?style=for-the-badge&logo=openai&logoColor=111111" alt="RAG" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-5B3A8E?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Classical%20Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Classical ML" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,nodejs,docker,postgres,redis,linux,git&theme=dark" alt="Python, PyTorch, scikit-learn, FastAPI, Node.js, Docker, PostgreSQL, Redis, Linux, Git">
 </p>
 
-- Hybrid retrieval (BM25 + dense) fused with Reciprocal Rank Fusion
-- Cross-encoder reranking and grounded, citation-based LLM generation
-- Agentic tool-calling (search / summarize / compare / quiz-generation)
-- Classical ML: KNN, SVM, decision trees, ensembles, XGBoost — evaluated properly
-- Computer vision: real-time face recognition with live enrollment
-- Retrieval evaluation: measuring Hit Rate@5 / F1, not just assuming it works
+| Area | Tools |
+|---|---|
+| **LLM, RAG and agents** | FAISS, BM25, cross-encoder reranking, Reciprocal Rank Fusion, ChromaDB, LangGraph, OpenClaw, Gemini / OpenAI-compatible APIs, Ollama |
+| **Machine learning** | scikit-learn, XGBoost, LightGBM, CatBoost, pandas, NumPy, PyTorch (fundamentals) |
+| **Computer vision** | OpenCV, InsightFace (ArcFace) |
+| **Backend and infrastructure** | FastAPI, Node.js, Docker Compose, PostgreSQL, Redis, Telegram Bot API / MTProto |
 
----
+## 📍 Right now
 
-## 📌 Featured Projects
-
-| Project | What it does |
-| --- | --- |
-| [uzbek-legal-rag](https://github.com/artikovozodbek/uzbek-legal-rag) | Hybrid RAG over Uzbek law (Constitution + Criminal Code), grounded article-by-article |
-| [openclaw-telegram-assistant](https://github.com/artikovozodbek/openclaw-telegram-assistant) | Self-hosted AI assistant on Telegram + browser; profiled and optimized: 57 s → 14 s per task, chat ≈2 s, prompt 40k → 24k tokens |
-| [crop-yield-prediction](https://github.com/artikovozodbek/crop-yield-prediction) | End-to-end ML: EDA, 7 models (XGBoost/LightGBM/CatBoost), time-aware validation, R² 0.98 |
-| [wikipedia-hybrid-rag](https://github.com/artikovozodbek/wikipedia-hybrid-rag) | Hybrid RAG over Uzbek Wikipedia, with quantitative BM25 vs Dense vs Hybrid evaluation |
-| [ai-data-analysis-platform](https://github.com/artikovozodbek/ai-data-analysis-platform) | FastAPI multi-agent platform: dataset understanding, cleaning, visualization, reports |
-| [ai-teaching-assistant](https://github.com/artikovozodbek/ai-teaching-assistant) | Local, offline RAG tutor over your own lecture slides/books, via Llama 3.2 + Ollama |
-| [classical-machine-learning](https://github.com/artikovozodbek/classical-machine-learning) | KNN/SVM/trees/ensembles/XGBoost, applied to a churn-prediction case study |
-| [realtime-face-recognition](https://github.com/artikovozodbek/realtime-face-recognition) | Real-time webcam face recognition (InsightFace/ArcFace) with live enrollment |
-| [python-learning-journey](https://github.com/artikovozodbek/python-learning-journey) | Core Python: basics → OOP → GUI → SQL → deep-learning intro |
-
----
-
-## 🌐 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Uzbek-Native-1E90FF?style=flat-square" alt="Uzbek Native" />
-  <img src="https://img.shields.io/badge/English-B1%20%2F%20Conversational-00F5A0?style=flat-square" alt="English B1" />
-</p>
-
-- **Uzbek** — Native
-- **English** — B1 certified, and comfortable understanding and speaking beyond that in practice
-
----
-
-## 🏁 Goals
-
-- [ ] Land a first role as an AI/ML Engineer
-- [ ] Ship a RAG system used by real users, not just a portfolio demo
-- [ ] Go deeper on agentic systems and tool-calling architectures
-- [ ] Keep publishing evaluated, honestly-documented projects
+- Studying in the **AI/ML program at Najot Ta'lim** and working as a **support teacher**
+  for Python, SQL and C.
+- Growing **ClawAI** into a bigger product: Uzbek voice, scheduled tasks, safe payments.
+- Looking for an **AI/ML engineering internship** where models go to production.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5A0,50:5B3A8E,100:2E1A47" alt="Footer wave" />
+  <img src="assets/footer.svg" alt="Build it. Measure it. Ship it." width="100%">
 </p>

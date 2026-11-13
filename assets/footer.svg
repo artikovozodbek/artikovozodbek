@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <defs>
+    <linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#2aabee"/><stop offset=".5" stop-color="#3be0c3"/><stop offset="1" stop-color="#7a5cff"/></linearGradient>
+    <style>
+      .a{animation:s 8s ease-in-out infinite}.b{animation:s 11s ease-in-out infinite reverse}
+      @keyframes s{0%,100%{transform:translateX(0)}50%{transform:translateX(-60px)}}
+      .t{font:600 16px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#9fb0d0}
+    </style>
+  </defs>
+  <path class="b" d="M-100 70 C 100 40, 300 100, 500 70 S 900 40, 1100 70 S 1400 100, 1400 70 V120 H-100Z" fill="url(#w)" opacity=".25"/>
+  <path class="a" d="M-100 85 C 150 60, 350 110, 600 85 S 1000 60, 1250 85 S 1400 100, 1400 90 V120 H-100Z" fill="url(#w)" opacity=".45"/>
+  <text class="t" x="600" y="34" text-anchor="middle">Build it. Measure it. Ship it.</text>
+</svg>

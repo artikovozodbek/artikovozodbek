@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Impact in numbers">
+  <defs>
+    <linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#4fc3ff"/><stop offset=".55" stop-color="#3be0c3"/><stop offset="1" stop-color="#a48bff"/></linearGradient>
+    <style>
+      .n{font:800 40px 'Segoe UI','Helvetica Neue',Arial,sans-serif;letter-spacing:-1px}
+      .l{font:500 15px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#9fb0d0}
+      .c{animation:up .9s cubic-bezier(.2,.8,.2,1) both}
+      .c2{animation-delay:.15s}.c3{animation-delay:.3s}.c4{animation-delay:.45s}.c5{animation-delay:.6s}
+      @keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="150" rx="20" fill="#070b18" stroke="#ffffff" stroke-opacity=".12"/>
+  <g text-anchor="middle">
+    <g class="c"><text class="n" x="120" y="78" fill="url(#t)">4×</text><text class="l" x="120" y="108">faster Telegram tasks</text></g>
+    <g class="c c2"><text class="n" x="360" y="78" fill="url(#t)">~2 s</text><text class="l" x="360" y="108">AI chat reply time</text></g>
+    <g class="c c3"><text class="n" x="600" y="78" fill="url(#t)">100%</text><text class="l" x="600" y="108">Hit@1 on legal RAG test set</text></g>
+    <g class="c c4"><text class="n" x="840" y="78" fill="url(#t)">0.95</text><text class="l" x="840" y="108">R², honest time-split</text></g>
+    <g class="c c5"><text class="n" x="1080" y="78" fill="url(#t)">9</text><text class="l" x="1080" y="108">public, documented projects</text></g>
+  </g>
+  <g stroke="#ffffff" stroke-opacity=".1"><path d="M240 40v70M480 40v70M720 40v70M960 40v70"/></g>
+</svg>
