@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Languages-Uzbek%20%C2%B7%20English%20B1-7a5cff?style=flat-square" alt="Uzbek, English B1">
 </p>
 
+<p align="center">
+  <a href="mailto:oartikov19@gmail.com"><img src="https://img.shields.io/badge/Email-oartikov19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/artikbayev21"><img src="https://img.shields.io/badge/Telegram-%40artikbayev21-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
+
 ### Hi, I'm Ozod 👋
 
 I build **AI systems that do real work and prove it with numbers**: retrieval-augmented
@@ -76,6 +81,11 @@ evaluated the honest way. When something is slow, I profile it before I touch it
   for Python, SQL and C.
 - Growing **ClawAI** into a bigger product: Uzbek voice, scheduled tasks, safe payments.
 - Looking for an **AI/ML engineering internship** where models go to production.
+
+## 📬 Let's talk
+
+Hiring for an AI/ML role, or want to build something together? Write to me:
+**[oartikov19@gmail.com](mailto:oartikov19@gmail.com)** · Telegram **[@artikbayev21](https://t.me/artikbayev21)**
 
 <p align="center">
   <img src="assets/footer.svg" alt="Build it. Measure it. Ship it." width="100%">
